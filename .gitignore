@@ -109,3 +109,4 @@ venv.bak/
 # Generated data
 data/*.png
 data/*.json
+model.h5
